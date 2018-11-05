@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ahorcado</string>
+    <string name="pos">Posición</string>
+    <string name="chr">Letra</string>
+    <string name="testChr">Jugar letra</string>
+    <string name="play">Empezar</string>
+    <string name="finish">Finalizar</string>
+    <string name="score">Puntos: </string>
+    <string name="lifes">Vidas: </string>
+    <string name="zero">0</string>
+    <string name="help">Permitir comodín * en posición</string>
+    <string name="easy">Fácil</string>
+    <string name="medium">Medio</string>
+    <string name="advanced">Avanzado</string>
+    <string name="empty"/>
+    <string name="mostrarPalabra">Mostrar palabra escogida</string>
+</resources>
